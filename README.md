@@ -14,16 +14,20 @@ Currently I am attempting to review the following 3 topics:
 Week 0 (2022/08/27 - 2022/09/03):
 *Why starts with 0? Since indexing starts with 0 too :D*
 
-**Probability and Statistics:** P.0 - Basic concepts reviews
+**Probability and Statistics:** P.0 - Probability and Counting
 
 **Deep Learning:** P.0 - Graph Attention Networks reviews and scratch implementation
 
-**Data Collection:** P.0 - Crawler investigation (What crawler do we have? What is special?)
+**Data Collection:** P.0 - Crawler investigation 1 - Scrapy
 
 ## Uploaded content
 
 ### Probability and Statistics
 
+0. Probability and Counting
+
 ### Deep Learning
 
 ### Data Collection
+
+0. Scrapy
