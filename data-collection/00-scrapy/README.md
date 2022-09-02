@@ -11,7 +11,12 @@ This is a demonstration of a simple web crawler to one of the most-read Vietname
 cd data-collection/00-scrapy/vnexpress
 ```
 
-**Step 2:** Run the spider by the following script
+**Step 2:** Install requirements
+```bash
+pip install -r requirements.txt
+```
+
+**Step 3:** Run the spider by the following script
 ```bash
 scrapy crawl vnexpress -t csv -o news/news.csv
 ```
