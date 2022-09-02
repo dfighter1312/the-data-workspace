@@ -20,6 +20,8 @@ Week 0 (2022/08/27 - 2022/09/03):
 
 **Data Collection:** P.0 - Crawler investigation 1 - Scrapy
 
+**Side Projects:** P.0 - Learning Vocabulary App with Streamlit
+
 ## Uploaded content
 
 ### Probability and Statistics
@@ -28,6 +30,12 @@ Week 0 (2022/08/27 - 2022/09/03):
 
 ### Deep Learning
 
+0. Graph Attention Networks
+
 ### Data Collection
 
 0. Scrapy
+
+### Side Projects
+
+0. Learning Vocabulary Application
