@@ -3,6 +3,7 @@
 ## Theoretical Review
 
 **1. Sample space** $S$ of an experiment is the set of all possible outcomes of the experiment.
+
 **2. An event** $A$ is the subset of sample space $S$ => $A$ occurred if the actual outcome is in A.
 
 Example: When rolling a dice:
