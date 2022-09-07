@@ -43,7 +43,7 @@ Example: When rolling a dice:
 - Box 1: o
 - Box 2: o o
 - Box 3: o o o
-- Box 4: o o o o
+- Box 4: o
 
 *o represents an object*
 
