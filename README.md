@@ -25,17 +25,17 @@ Week 1 (2022/09/04 - 2022/09/10):
 
 ### Probability and Statistics
 
-0. Probability and Counting
+1. Probability and Counting
 
 ### Deep Learning
 
-0. Graph Attention Networks
+2. Graph Attention Networks
 
 ### Data Collection
 
-0. Scrapy
-1. Selenium
+1. Scrapy
+2. Selenium
 
 ### Side Projects
 
-0. Learning Vocabulary Application
+1. Learning Vocabulary Application

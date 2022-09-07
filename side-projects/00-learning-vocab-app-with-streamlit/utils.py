@@ -66,7 +66,7 @@ def generate_words(df, category):
         selected_df = df
     else:
         selected_df = df[df["category"] == category]
-    word = selected_df.sample(weights=1 / selected_df["score"])
+    word = selected_df.sample(weights=1 / (selected_df["score"] - selected_df["score"].min() + 1))
     return {
         "word": word['word'].values[0],
         "options": set(list(df.sample(4, replace=True)['meaning']) + [word['meaning'].values[0]]),
