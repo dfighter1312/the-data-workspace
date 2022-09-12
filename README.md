@@ -11,15 +11,15 @@ Currently I am attempting to review the following 3 topics:
 
 ## Progress
 
-Week 1 (2022/09/04 - 2022/09/10):
+Week 2 (2022/09/11 - 2022/09/17):
 
-**Probability and Statistics:** P.0 - Probability and Counting (cont.)
+**Probability and Statistics:** P.1 - Conditional Probability
 
-**Deep Learning:** P.1 - Generative Adversarial Networks reviews and scratch implementation
+**Deep Learning:** P.2 - NLP Pretrained models on Hugging Faces (for both Tensorflow and Pytorch)
 
-**Data Collection:** P.1 - Crawler investigation 2 - Selenium
+**Data Collection:** P.2 - PySpark
 
-**Side Projects:** P.0 - Learning Vocabulary App with Streamlit (cont.)
+**Side Projects:** P.1 - Analyzing the news data crawled from Scrapy
 
 ## Uploaded content
 
@@ -36,6 +36,7 @@ Week 1 (2022/09/04 - 2022/09/10):
 
 1. Scrapy (Basic)
 2. Selenium (Basic)
+3. PySpark (Basic)
 
 ### Side Projects
 
