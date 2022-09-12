@@ -21,7 +21,7 @@ Week 2 (2022/09/11 - 2022/09/17):
 
 **Side Projects:** P.1 - Analyzing the news data crawled from Scrapy
 
-## Uploaded content
+## Uploaded contents
 
 ### Probability and Statistics
 
@@ -31,6 +31,7 @@ Week 2 (2022/09/11 - 2022/09/17):
 
 1. Graph Attention Networks
 2. Deep Convolutional Generative Adversarial Networks
+3. Pretrained Models
 
 ### Data Collection
 
