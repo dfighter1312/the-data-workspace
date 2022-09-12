@@ -11,31 +11,32 @@ Currently I am attempting to review the following 3 topics:
 
 ## Progress
 
-Week 0 (2022/08/27 - 2022/09/03):
-*Why starts with 0? Since indexing starts with 0 too :D*
+Week 1 (2022/09/04 - 2022/09/10):
 
-**Probability and Statistics:** P.0 - Probability and Counting
+**Probability and Statistics:** P.0 - Probability and Counting (cont.)
 
-**Deep Learning:** P.0 - Graph Attention Networks reviews and scratch implementation
+**Deep Learning:** P.1 - Generative Adversarial Networks reviews and scratch implementation
 
-**Data Collection:** P.0 - Crawler investigation 1 - Scrapy
+**Data Collection:** P.1 - Crawler investigation 2 - Selenium
 
-**Side Projects:** P.0 - Learning Vocabulary App with Streamlit
+**Side Projects:** P.0 - Learning Vocabulary App with Streamlit (cont.)
 
 ## Uploaded content
 
 ### Probability and Statistics
 
-0. Probability and Counting
+1. Probability and Counting
 
 ### Deep Learning
 
-0. Graph Attention Networks
+1. Graph Attention Networks
+2. Deep Convolutional Generative Adversarial Networks
 
 ### Data Collection
 
-0. Scrapy
+1. Scrapy (Basic)
+2. Selenium (Basic)
 
 ### Side Projects
 
-0. Learning Vocabulary Application
+1. Learning Vocabulary Application

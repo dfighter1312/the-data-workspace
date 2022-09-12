@@ -1,4 +1,4 @@
-# Data Collection: Week 0 - Data Crawling with Scrapy
+# Data Collection: Week 1 - Data Crawling with Scrapy
 
 ## What this repository do?
 

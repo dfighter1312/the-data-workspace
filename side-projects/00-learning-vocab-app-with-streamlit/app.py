@@ -66,7 +66,7 @@ elif selected == "Check Vocab":
     )
     cols = st.columns([1, 10])
     next = cols[0].button("Start/Next", help="Click to enable the Submit button")
-    submitted = cols[1].button("Submit", disabled=not next)
+    submitted = cols[1].button("Submit")
     if submitted:
         if 'answered' in st.session_state['word']:
             st.write("You have answered this question, please click next")
@@ -84,35 +84,38 @@ elif selected == "Check Vocab":
                 st.warning(f"Incorrect answer, you lost {score} points.")
             
             st.write(st.session_state['word'])
-            st.session_state['word'] = generate_words(df)
+            # st.session_state['word'] = generate_words(df, category)
+    if next:
+        if 'answered' in st.session_state['word'] and not submitted:
+            st.session_state['word'] = generate_words(df, category)
+
 
 
 elif selected == "Add More Words":
     st.title("Add More Words To Your Vocabulary")
-    with st.form("insert", clear_on_submit=True):
-        word = st.text_input("Word")
-        type = st.multiselect(
-            label="type",
-            options=["noun", "verb", "adjective", "adverb", "other"],
-            default=st.session_state.get("type_set", "noun")
+    word = st.text_input("Word")
+    type = st.multiselect(
+        label="type",
+        options=["noun", "verb", "adjective", "adverb", "other"],
+        default=st.session_state.get("type_set", "noun")
+    )
+    meaning = st.text_input("Meaning")
+    st.write("You can pick the category on the multi-selection or by text input")
+    category = st.text_input("Category")
+    category_alt = st.selectbox(
+        label="",
+        options=df["category"].unique()
+    )
+    submitted = st.button("Submit")
+    if submitted:
+        add_new_words(
+            word=word,
+            type=type,
+            meaning=meaning,
+            category=category if len(category) > 0 else category_alt
         )
-        meaning = st.text_input("Meaning")
-        st.write("You can pick the category on the multi-selection or by text input")
-        category = st.text_input("Category")
-        category_alt = st.selectbox(
-            label="",
-            options=df["category"].unique()
-        )
-        submitted = st.form_submit_button("Submit")
-        if submitted:
-            add_new_words(
-                word=word,
-                type=type,
-                meaning=meaning,
-                category=category if len(category) > 0 else category_alt
-            )
-            st.session_state["type_set"] = type
-            st.success("Add word successfully")
+        st.session_state["type_set"] = type
+        st.success("Add word successfully")
 
 elif selected == "Your Stats":
     
