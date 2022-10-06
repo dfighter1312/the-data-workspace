@@ -1,0 +1,51 @@
+word,type,meaning,category,last_updated,test_passed,test_failed,score
+resemblance,noun,sự tương đồng,1 - Growing up,2022-09-11 20:26:18.690303,1,0,205
+rivalry,noun,sự ganh đua,1 - Growing up,2022-09-11 20:26:34.203762,1,0,202
+spurt,verb,"bắn, phun, bộc phát",1 - Growing up,2022-09-11 20:26:55.110548,1,0,205
+cognitive,adjective,"(thuộc) nhận thức, kinh nghiệm",1 - Growing up,2022-09-11 20:27:12.415112,1,0,202
+grasp at,verb,"nắm chặt, hiểu thấu",1 - Growing up,2022-09-11 20:27:25.577627,1,0,205
+maternal instinct,noun,bản năng người mẹ,1 - Growing up,2022-09-11 20:27:46.313930,1,0,205
+stable upbringing,noun,sự nuôi dưỡng vững chắc,1 - Growing up,2022-09-11 20:28:02.135750,0,0,0
+striking resemblance,noun,"sự tương đồng nổi bật, rất giống nhau",1 - Growing up,2022-09-11 20:28:49.528612,1,0,202
+crawl,verb,"bò, trườn",2 - Mental and physical development,2022-09-11 20:29:24.032910,1,0,205
+overindulgent,adjective,tận hưởng quá mức,2 - Mental and physical development,2022-09-11 20:29:39.546549,1,0,205
+throw a tantrum,verb,quăng một cơn giận,2 - Mental and physical development,2022-09-11 20:29:55.657797,1,0,202
+tolerant of/toward sb,verb,khoan dung với ai,2 - Mental and physical development,2022-09-11 20:30:09.057738,1,0,202
+mimic/imitate,verb,bắt chước,2 - Mental and physical development,2022-09-11 20:30:27.731266,1,0,202
+toddler,noun,trẻ chập chững biết đi,2 - Mental and physical development,2022-09-11 20:30:43.151878,1,0,205
+spontaneously,adverb,tự phát,2 - Mental and physical development,2022-09-11 20:31:00.220009,1,1,197
+unparalleled,adjective,không thể so sánh,2 - Mental and physical development,2022-09-11 20:31:14.290268,1,0,202
+infancy,noun,thời kỳ còn nhỏ,2 - Mental and physical development,2022-09-11 20:31:29.439676,1,0,202
+affection,noun,sự yêu mến,2 - Mental and physical development,2022-09-11 20:31:37.626169,1,0,202
+momentarily,adverb,một cách thoáng qua,2 - Mental and physical development,2022-09-11 20:32:00.156574,1,0,205
+keep an open mind,verb,cố gắng không đánh giá trước khi biết sự thật (try not to judge before you know the facts),2.2 - The Mind,2022-09-11 20:40:53.194430,1,0,202
+bear in mind,verb,ghi nhớ (remember),2.2 - The Mind,2022-09-11 20:41:14.655235,1,0,202
+have something in mind,verb,có ý tưởng (have an idea),2.2 - The Mind,2022-09-11 20:41:30.127268,2,0,334
+have sth on your mind,verb,lo lắng về điều gì đó (be worried about sth),2.2 - The Mind,2022-09-11 20:41:57.153385,1,0,202
+my mind went blank,other,không thể nhớ được điều gì,2.2 - The Mind,2022-09-11 20:42:33.138221,2,0,336
+it slipped my mind,other,quên điều gì đó,2.2 - The Mind,2022-09-11 20:42:54.637230,1,0,202
+put your mind at ease,verb,dừng lo lắng (stop you from worrying),2.2 - The Mind,2022-09-11 20:43:21.944130,2,0,334
+broaden the mind,verb,nâng cao kiến thức (increase your knowledge),2.2 - The Mind,2022-09-11 20:43:40.282252,1,0,202
+reminisce,verb,hồi tưởng,2.2 - The Mind,2022-09-11 20:56:48.995796,1,0,205
+appetite,noun,sự thèm ăn,3 - Keeping Fit,2022-09-11 21:06:07.399294,1,0,205
+artery,noun,động mạch,3 - Keeping Fit,2022-09-11 21:06:28.921495,1,0,205
+craving,noun,"sự thèm thuồng, thèm muốn",3 - Keeping Fit,2022-09-11 21:06:59.660610,1,1,200
+dietician,noun,chuyên gia dinh dưỡng,3 - Keeping Fit,2022-09-11 21:07:22.915101,1,0,205
+infection,noun,sự truyền nhiễm,3 - Keeping Fit,2022-09-11 21:08:17.490211,1,0,205
+nutrient,noun,chất dinh dưỡng,3 - Keeping Fit,2022-09-11 21:09:01.482364,1,0,205
+nutrition,noun,"sự dinh dưỡng, đồ ăn dinh dưỡng",3 - Keeping Fit,2022-09-11 21:09:24.055177,1,0,205
+onset,noun,"sự khởi đầu, sự công kích",3 - Keeping Fit,2022-09-11 21:09:44.615033,0,1,-5
+stroke,noun,đột quỵ,3 - Keeping Fit,2022-09-11 21:10:54.387178,1,0,205
+therapy,noun,liệu pháp trị liệu,3 - Keeping Fit,2022-09-11 21:11:17.829124,0,0,0
+acute,adjective,nhọn,3 - Keeping Fit,2022-09-11 21:11:43.252504,0,0,0
+alternate,adjective,luân phiên,3 - Keeping Fit,2022-09-11 21:12:16.784959,1,0,205
+brisk,adjective,nhanh chóng,3 - Keeping Fit,2022-09-11 21:12:30.913933,0,1,-5
+chronic`,adjective,mãn tính,3 - Keeping Fit,2022-09-11 21:12:44.841379,1,0,205
+moderate,adjective,vừa phải,3 - Keeping Fit,2022-09-11 21:13:06.392227,1,0,205
+persistent,adjective,"kiên trì, cố chấp",3 - Keeping Fit,2022-09-11 21:13:41.905425,1,0,205
+curb,verb,ngăn lại,3 - Keeping Fit,2022-09-11 21:14:04.735492,1,1,200
+diminish,verb,giảm bớt,3 - Keeping Fit,2022-09-11 21:14:32.085778,1,0,205
+disrupt,verb,làm gián đoạn,3 - Keeping Fit,2022-09-11 21:14:57.342400,1,2,195
+nourish,verb,nuôi dưỡng,3 - Keeping Fit,2022-09-11 21:43:43.115864,1,2,195
+preventable,adjective,có thể chống lại được,3 - Keeping Fit,2022-09-11 21:44:00.924073,1,0,205
+disinfect,verb,"khử trùng, khử độc",3 - Keeping Fit,2022-09-11 21:44:30.897541,1,0,205
