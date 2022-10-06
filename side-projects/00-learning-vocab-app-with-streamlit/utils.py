@@ -12,6 +12,8 @@ def read_vocab():
     if os.path.exists(vocab_path):
         return pd.read_csv('vocab_list/vocab.csv')
     else:
+        if not os.path.exists('vocab_list'):
+            os.mkdir('vocab_list')
         df = pd.DataFrame(
             columns=['word', 'type', 'meaning', 'category', 'last_updated', 'test_passed', 'test_failed', 'score']
         )
